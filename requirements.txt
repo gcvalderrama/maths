@@ -1,0 +1,5 @@
+numpy
+seaborn
+plotly-express
+notebook
+sympy
